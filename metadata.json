@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Thống Tạo Đề Thi Online Lớp 1-12",
+  "description": "Hệ thống khảo thí & tạo đề thi trực tuyến Lớp 1 - 12 chuẩn SGK Bộ GD&ĐT theo năm học, phân quyền giáo viên theo khối bảo mật chống lộ đề, bóc tách đề cương AI (Word, PDF, Camera), chấm thi tự động và xuất PDF in ấn.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
